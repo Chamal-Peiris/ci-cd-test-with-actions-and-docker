@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/welcome")
     public String welcome(){
-        return "Welcome to ci/cd test";
+        return "Welcome to ci/cd test with chamal";
     }
 }
