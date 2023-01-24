@@ -39,7 +39,7 @@ jobs:
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
-        image: Chamal99/springboot-image-new
+        image: chamal99/springboot-image-new
         tags: latest
         registry: docker.io
         dockerfile: Dockerfile
