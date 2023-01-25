@@ -7,5 +7,5 @@
   > Maven<br />
   > Docker CLI and Docker desktop
   
-  **License**
+  **License**<br />
   [MIT](https://choosealicense.com/licenses/mit/)
