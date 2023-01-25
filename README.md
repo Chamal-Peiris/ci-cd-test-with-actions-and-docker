@@ -9,3 +9,6 @@
   
   **License**<br />
   [MIT](https://choosealicense.com/licenses/mit/)
+
+  **Use the below to download the image file via docker hub** </br>
+  <sub>docker pull chamal99/springboot-image-new</sub>
